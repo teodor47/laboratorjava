@@ -2,6 +2,10 @@ public class Student {
     String nume;
     String prenume;
     int grupa;
+    public Student(String nume, String prenume) {
+        this.nume = nume;
+        this.prenume = prenume;
+    }
     public Student(String nume, String prenume, int grupa)
     {
         this.nume = nume;

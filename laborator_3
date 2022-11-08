@@ -1,0 +1,18 @@
+- [ ] Generati o baza de date hardcodate de studenți  - ArrayOfStudents - atentie la grupa studentului sa fie formatata în așa fel încât sa se poată extrage informația despre anul de admitere: 4LF901
+- [ ] Generati o baza de date hardcodate de profesori - ArrayOf Profesors
+- [ ] Generati o baza de date hardcodate de Cursuri
+- [ ] Modificați codul astfel încât Fiecare curs sa conțină informație despre anul in care se desfășoară ( anul i, ii, iii etc..)
+- [ ] În manager cursuri atributi toți studenții din anul curent la cursurile anului respectiv
+- [ ] Adăugați funcționalitatea necesară pentru logarea studentului după numele și prenumele sau: username: Popescu.Andrei password: popescuandrei
+- [ ] Adăugați funcționalitatea necesare pentru logarea profesorului după numele și prenumele sau
+- [ ] Afișați meniuri diferite pentru fiecare tip de cont
+- [ ] Pentru student:
+	1. Afisati media notelor sale
+	2. Cursurile și notele la cursuri
+	3. Restantele
+- [ ] Pentru profesor:
+	1. Afișați cursurile la care este asociat
+	2. Media notelor date la fiecare curs
+	3. Notele date la fiecare curs
+
+	Pentru logare se si meniuri se folosesc citiri de la tastatura
